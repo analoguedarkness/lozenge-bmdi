@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Device" max_length="40" name="x_342180_lozengebm_device" type="collection">
+        <element label="Bed" max_length="40" name="bed" type="string"/>
+        <element label="Department" max_length="40" name="department" type="string"/>
+        <element choice="1" label="Divison" max_length="40" name="divison" type="choice">
+            <choice/>
+        </element>
+        <element label="Epic DEV Name" max_length="40" name="epic_dev_name" type="string"/>
+        <element label="Epic MPI ID" max_length="40" name="epic_mpi_id" type="string"/>
+        <element choice="1" label="Facility" max_length="40" name="facility" type="choice">
+            <choice/>
+        </element>
+        <element label="Fixed" max_length="40" name="fixed" type="boolean"/>
+        <element label="Room" max_length="40" name="room" type="string"/>
+    </element>
+</database>

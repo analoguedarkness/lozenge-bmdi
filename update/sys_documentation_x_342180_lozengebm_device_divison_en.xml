@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="divison" label="Divison" language="en" table="x_342180_lozengebm_device">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>divison</element>
+            <help/>
+            <hint/>
+            <label>Divison</label>
+            <language>en</language>
+            <name>x_342180_lozengebm_device</name>
+            <plural>Divisons</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-09 20:32:48</sys_created_on>
+            <sys_id>4c3bdb39db1133003df59006db9619d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Divison</sys_name>
+            <sys_package display_value="LozengeBMDI" source="x_342180_lozengebm">acf8d3b5db1133003df59006db9619e7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="LozengeBMDI">acf8d3b5db1133003df59006db9619e7</sys_scope>
+            <sys_update_name>sys_documentation_x_342180_lozengebm_device_divison_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-09 20:32:48</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
